@@ -67,7 +67,7 @@ Blinkit operates a massive network of "Dark Stores." To optimize growth, I addre
 
 
 ## 👤 Author
-**Abhilasha Srivastava** *B.Tech in Computer Science & Engineering* [LinkedIn Profile](www.linkedin.com/in/abhilasha-srivastava-60b977270)
+**Abhilasha Srivastava** *B.Tech in Computer Science & Engineering* [LinkedIn Profile](https://www.linkedin.com/in/abhilasha-srivastava-60b977270)
 
 
 *Note: This is a portfolio project used to demonstrate data visualization and analytical skills.*
