@@ -61,7 +61,7 @@ Blinkit operates a massive network of "Dark Stores." To optimize growth, I addre
 ## 📂 Repository Structure
 | File | Description |
 | :--- | :--- |
-| `Dataset.csv` | The cleaned dataset used for this analysis. |
+| `Dataset.xlsv` | The cleaned dataset used for this analysis. |
 | `Dashboard_Preview.png` | High-resolution screenshot of the report. |
 
 
